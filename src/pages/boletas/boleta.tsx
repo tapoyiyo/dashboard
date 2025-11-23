@@ -5,4 +5,5 @@ import './media/boleta.css';
   );
 }
 
+
 export default boleta;
